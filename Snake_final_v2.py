@@ -14,7 +14,7 @@ black = (0, 0, 0)
 white = (255, 255, 255)
 red = (255, 0, 0)
 green = (188, 227, 199)
-yellow = (255, 255, 0)
+yellow = (255, 255, 0)ra
 
 # Fonts for the game
 score_font = pygame.font.SysFont("snake chan.ttf", 20)
